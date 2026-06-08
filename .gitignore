@@ -1,0 +1,11 @@
+# Do not commit these (already cleaned)
+*.log
+*.sqlite
+*.db
+Cache/Code Cache/*
+blob_storage/*
+.dspcache/*
+*.tmp
+*.swp
+*~
+.github/*
